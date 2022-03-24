@@ -1,0 +1,18 @@
+{
+	"BTC/USDT": {
+		"trigger": "more",
+		"price": "60000"
+	},
+	"ETH/BTC": {
+		"trigger": "less",
+		"price": "0.07"
+	},
+	"DOT/USDT": {
+		"trigger": "more_eq",
+		"price": "40"
+	},
+	"ETH/USDT": {
+		"trigger": "less_eq",
+		"price": "4000"
+	}
+}
